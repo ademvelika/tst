@@ -1,296 +1,90 @@
-#EXTINF:-1 tvg-id="" tvg-name="##### ALB - GENERAL #####" tvg-logo="https://go4.pw/MAGFLAGS/ALBANIA.png" group-title="EU | ALB | GJENERAL",##### ALB - GENERAL #####
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/54010.ts
-#EXTINF:-1 tvg-id="topchannel.al" tvg-name="ALB - TOP CHANNEL 4K ◉" tvg-logo="https://go4.pw/ALBANIA/TOPCHANNEL.png" group-title="EU | ALB | GJENERAL",ALB - TOP CHANNEL 4K ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/53954.ts
-#EXTINF:-1 tvg-id="topchannel.al" tvg-name="ALB - TOP CHANNEL FHD ◉" tvg-logo="https://go4.pw/ALBANIA/TOPCHANNEL.png" group-title="EU | ALB | GJENERAL",ALB - TOP CHANNEL FHD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/492276.ts
-#EXTINF:-1 tvg-id="topchannel.al" tvg-name="ALB - TOP CHANNEL HD ◉" tvg-logo="https://go4.pw/ALBANIA/TOPCHANNEL.png" group-title="EU | ALB | GJENERAL",ALB - TOP CHANNEL HD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/473203.ts
-#EXTINF:-1 tvg-id="Klan Kosova.al" tvg-name="ALB - KLAN FHD ◉" tvg-logo="https://go4.pw/ALBANIA/KLAN.png" group-title="EU | ALB | GJENERAL",ALB - KLAN FHD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/53952.ts
-#EXTINF:-1 tvg-id="Klan Kosova.al" tvg-name="ALB - KLAN FHD² ◉" tvg-logo="https://go4.pw/ALBANIA/KLAN.png" group-title="EU | ALB | GJENERAL",ALB - KLAN FHD² ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/492251.ts
-#EXTINF:-1 tvg-id="Klan.al" tvg-name="ALB - KLAN TV HD ◉" tvg-logo="https://go4.pw/ALBANIA/KLAN.png" group-title="EU | ALB | GJENERAL",ALB - KLAN TV HD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/53995.ts
-#EXTINF:-1 tvg-id="Klan Plus.al" tvg-name="ALB - KLAN PLUS 4K ◉" tvg-logo="https://go4.pw/ALBANIA/klnplsusa.png" group-title="EU | ALB | GJENERAL",ALB - KLAN PLUS 4K ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/53967.ts
-#EXTINF:-1 tvg-id="Klan Plus.al" tvg-name="ALB - KLAN PLUS FHD ◉" tvg-logo="https://go4.pw/ALBANIA/klnplsusa.png" group-title="EU | ALB | GJENERAL",ALB - KLAN PLUS FHD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/492275.ts
-#EXTINF:-1 tvg-id="Klan Plus.al" tvg-name="ALB - KLAN PLUS HD ◉" tvg-logo="https://go4.pw/ALBANIA/klnplsusa.png" group-title="EU | ALB | GJENERAL",ALB - KLAN PLUS HD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/53994.ts
-#EXTINF:-1 tvg-id="1408832" tvg-name="ALB - KLAN NOSTALGJI FHD" tvg-logo="" group-title="EU | ALB | GJENERAL",ALB - KLAN NOSTALGJI FHD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/1408832.ts
-#EXTINF:-1 tvg-id="alsatm.al" tvg-name="ALB -  ALSAT M 4K" tvg-logo="https://go4.pw/ALBANIA/ALSAT.png" group-title="EU | ALB | GJENERAL",ALB -  ALSAT M 4K
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/1244947.ts
-#EXTINF:-1 tvg-id="alsatm.al" tvg-name="ALB - ALSAT M FHD ◉" tvg-logo="https://go4.pw/ALBANIA/ALSAT.png" group-title="EU | ALB | GJENERAL",ALB - ALSAT M FHD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/473205.ts
-#EXTINF:-1 tvg-id="alsatm.al" tvg-name="ALB - ALSAT M HD ◉" tvg-logo="https://go4.pw/ALBANIA/ALSAT.png" group-title="EU | ALB | GJENERAL",ALB - ALSAT M HD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/53951.ts
-#EXTINF:-1 tvg-id="Vizion + HD.al" tvg-name="ALB - VIZION PLUS 4K ◉" tvg-logo="https://go4.pw/ALBANIA/visionplus.png" group-title="EU | ALB | GJENERAL",ALB - VIZION PLUS 4K ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/473204.ts
-#EXTINF:-1 tvg-id="Vizion + HD.al" tvg-name="ALB - VIZION PLUS FHD" tvg-logo="https://go4.pw/ALBANIA/visionplus.png" group-title="EU | ALB | GJENERAL",ALB - VIZION PLUS FHD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/988036.ts
-#EXTINF:-1 tvg-id="Vizion + HD.al" tvg-name="ALB - VIZION PLUS HD ◉" tvg-logo="https://go4.pw/ALBANIA/visionplus.png" group-title="EU | ALB | GJENERAL",ALB - VIZION PLUS HD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/222657.ts
-#EXTINF:-1 tvg-id="Vizion + HD.al" tvg-name="ALB - VIZION PLUS HD² ◉" tvg-logo="https://go4.pw/ALBANIA/visionplus.png" group-title="EU | ALB | GJENERAL",ALB - VIZION PLUS HD² ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/762493.ts
-#EXTINF:-1 tvg-id="klankosova.al" tvg-name="ALB - KLAN KOSOVA 4K ◉" tvg-logo="https://go4.pw/ALBANIA/KLANKOSOVA.png" group-title="EU | ALB | GJENERAL",ALB - KLAN KOSOVA 4K ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/1029095.ts
-#EXTINF:-1 tvg-id="klankosova.al" tvg-name="ALB - KLAN KOSOVA FHD ◉" tvg-logo="https://go4.pw/ALBANIA/KLANKOSOVA.png" group-title="EU | ALB | GJENERAL",ALB - KLAN KOSOVA FHD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/492148.ts
-#EXTINF:-1 tvg-id="klankosova.al" tvg-name="ALB - KLAN KOSOVA HD ◉" tvg-logo="https://go4.pw/ALBANIA/KLANKOSOVA.png" group-title="EU | ALB | GJENERAL",ALB - KLAN KOSOVA HD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/54000.ts
-#EXTINF:-1 tvg-id="rtsh1.al" tvg-name="ALB - RTSH 1 HD ◉" tvg-logo="https://go4.pw/ALBANIA/RTSH1.png" group-title="EU | ALB | GJENERAL",ALB - RTSH 1 HD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/53992.ts
-#EXTINF:-1 tvg-id="RTSH 2.al" tvg-name="ALB - RTSH 2 HD ◉" tvg-logo="https://go4.pw/ALBANIA/RTSH2.png" group-title="EU | ALB | GJENERAL",ALB - RTSH 2 HD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/53991.ts
-#EXTINF:-1 tvg-id="rtsh3.al" tvg-name="ALB - RTSH 3 HD ◉" tvg-logo="https://go4.pw/ALBANIA/RTSH3.png" group-title="EU | ALB | GJENERAL",ALB - RTSH 3 HD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/53989.ts
-#EXTINF:-1 tvg-id="rtshgjirokastra.al" tvg-name="ALB - RTSH GJIROKASTRA HD ◉" tvg-logo="https://go4.pw/ALBANIA/rtshgiro.png" group-title="EU | ALB | GJENERAL",ALB - RTSH GJIROKASTRA HD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/53984.ts
-#EXTINF:-1 tvg-id="rtshkuvend.al" tvg-name="ALB - RTSH KUVEND HD ◉" tvg-logo="https://go4.pw/ALBANIA/rtshkuv.png" group-title="EU | ALB | GJENERAL",ALB - RTSH KUVEND HD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/53988.ts
-#EXTINF:-1 tvg-id="rtshshkollë.al" tvg-name="ALB - RTSH SHKOLLË SD ◉" tvg-logo="https://go4.pw/ALBANIA/rtsshkll.png" group-title="EU | ALB | GJENERAL",ALB - RTSH SHKOLLË SD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/345980.ts
-#EXTINF:-1 tvg-id="rtshplus.al" tvg-name="ALB - RTSH PLUS HD ◉" tvg-logo="https://go4.pw/ALBANIA/rtshpls.png" group-title="EU | ALB | GJENERAL",ALB - RTSH PLUS HD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/53986.ts
-#EXTINF:-1 tvg-id="rtshshqip.al" tvg-name="ALB - RTSH SHQIP HD" tvg-logo="https://go4.pw/ALBANIA/12.png" group-title="EU | ALB | GJENERAL",ALB - RTSH SHQIP HD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/1040888.ts
-#EXTINF:-1 tvg-id="1407201" tvg-name="ALB - RTSH KORCA HD" tvg-logo="https://go4.pw/EUROPE/RTSHKORCA.png" group-title="EU | ALB | GJENERAL",ALB - RTSH KORCA HD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/1407201.ts
-#EXTINF:-1 tvg-id="1407202" tvg-name="ALB - RTSH SHKODRA HD" tvg-logo="https://go4.pw/EUROPE/RTSHSHKODRA.png" group-title="EU | ALB | GJENERAL",ALB - RTSH SHKODRA HD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/1407202.ts
-#EXTINF:-1 tvg-id="1407203" tvg-name="ALB - RTSH KUKESI HD" tvg-logo="https://go4.pw/EUROPE/RTSHKUKESI.png" group-title="EU | ALB | GJENERAL",ALB - RTSH KUKESI HD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/1407203.ts
-#EXTINF:-1 tvg-id="rtv21.al" tvg-name="ALB - RTV 21 FHD ◉" tvg-logo="https://go4.pw/ALBANIA/rtv21.png" group-title="EU | ALB | GJENERAL",ALB - RTV 21 FHD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/492115.ts
-#EXTINF:-1 tvg-id="rtv21.al" tvg-name="ALB - RTV 21 HD ◉" tvg-logo="https://go4.pw/ALBANIA/rtv21.png" group-title="EU | ALB | GJENERAL",ALB - RTV 21 HD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/54003.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALB - RTV 21 MIX FHD ◉" tvg-logo="https://go4.pw/ALBANIA/rtvmix.png" group-title="EU | ALB | GJENERAL",ALB - RTV 21 MIX FHD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/53962.ts
-#EXTINF:-1 tvg-id="RTV 21 MK.al" tvg-name="ALB - RTV 21 MK FHD" tvg-logo="https://go4.pw/ALBANIA/rtv21.png" group-title="EU | ALB | GJENERAL",ALB - RTV 21 MK FHD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/988035.ts
-#EXTINF:-1 tvg-id="t7.al" tvg-name="ALB - T7 4K" tvg-logo="https://go4.pw/ALBANIA/TTV.png" group-title="EU | ALB | GJENERAL",ALB - T7 4K
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/1029099.ts
-#EXTINF:-1 tvg-id="t7.al" tvg-name="ALB - T 7 HD ◉" tvg-logo="https://go4.pw/ALBANIA/TTV.png" group-title="EU | ALB | GJENERAL",ALB - T 7 HD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/53998.ts
-#EXTINF:-1 tvg-id="t7.al" tvg-name="ALB - T 7 SD ◉" tvg-logo="https://go4.pw/ALBANIA/TTV.png" group-title="EU | ALB | GJENERAL",ALB - T 7 SD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/492299.ts
-#EXTINF:-1 tvg-id="rtk1.al" tvg-name="ALB - RTK SAT 1 FHD ◉" tvg-logo="https://go4.pw/ALBANIA/rtk1.png" group-title="EU | ALB | GJENERAL",ALB - RTK SAT 1 FHD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/762489.ts
-#EXTINF:-1 tvg-id="rtk1.al" tvg-name="ALB - RTK 1 HD ◉" tvg-logo="https://go4.pw/ALBANIA/rtk1.png" group-title="EU | ALB | GJENERAL",ALB - RTK 1 HD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/54008.ts
-#EXTINF:-1 tvg-id="rtk2.al" tvg-name="ALB - RTK 2 HD ◉" tvg-logo="https://go4.pw/ALBANIA/rtk2.png" group-title="EU | ALB | GJENERAL",ALB - RTK 2 HD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/54007.ts
-#EXTINF:-1 tvg-id="rtk3.al" tvg-name="ALB - RTK 3 FHD ◉" tvg-logo="https://go4.pw/ALBANIA/rtk3.png" group-title="EU | ALB | GJENERAL",ALB - RTK 3 FHD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/54006.ts
-#EXTINF:-1 tvg-id="rtk4.al" tvg-name="ALB - RTK 4 HD ◉" tvg-logo="https://go4.pw/ALBANIA/rtk4.png" group-title="EU | ALB | GJENERAL",ALB - RTK 4 HD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/54005.ts
-#EXTINF:-1 tvg-id="tvdukagjini.al" tvg-name="ALB - TV DUKAGJINI FHD ◉" tvg-logo="https://go4.pw/ALBANIA/DUKAGJINI.png" group-title="EU | ALB | GJENERAL",ALB - TV DUKAGJINI FHD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/53997.ts
-#EXTINF:-1 tvg-id="tvdukagjini.al" tvg-name="ALB - TV DUKAGJINI FHD² ◉" tvg-logo="https://go4.pw/ALBANIA/DUKAGJINI.png" group-title="EU | ALB | GJENERAL",ALB - TV DUKAGJINI FHD² ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/762474.ts
-#EXTINF:-1 tvg-id="Shenja TV.al" tvg-name="ALB - TV SHENJA FHD ◉" tvg-logo="https://go4.pw/ALBANIA/SHENJA.png" group-title="EU | ALB | GJENERAL",ALB - TV SHENJA FHD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/762494.ts
-#EXTINF:-1 tvg-id="Shenja TV.al" tvg-name="ALB - TV SHENJA HD ◉" tvg-logo="https://go4.pw/ALBANIA/SHENJA.png" group-title="EU | ALB | GJENERAL",ALB - TV SHENJA HD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/53974.ts
-#EXTINF:-1 tvg-id="ktv.al" tvg-name="ALB -  TV KOHA HD ◉" tvg-logo="https://go4.pw/ALBANIA/KOHA.png" group-title="EU | ALB | GJENERAL",ALB -  TV KOHA HD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/53969.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALB - TV2 GOSTIVAR HD ◉" tvg-logo="https://go4.pw/ALBANIA/GOSTIVAR.png" group-title="EU | ALB | GJENERAL",ALB - TV2 GOSTIVAR HD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/53971.ts
-#EXTINF:-1 tvg-id="Klan MK.al" tvg-name="ALB - KLAN MACEDONIA HD ◉" tvg-logo="https://go4.pw/ALBANIA/KLANMACEDONIA.png" group-title="EU | ALB | GJENERAL",ALB - KLAN MACEDONIA HD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/53968.ts
-#EXTINF:-1 tvg-id="Syri TV.al" tvg-name="ALB - SYRI NEWS HD" tvg-logo="https://go4.pw/EUROPE/ALBANIA/Syri-TV.png" group-title="EU | ALB | GJENERAL",ALB - SYRI NEWS HD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/988025.ts
-#EXTINF:-1 tvg-id="Kanal 10.al" tvg-name="ALB - KANAL 10 FHD ◉" tvg-logo="https://go4.pw/EUROPE/ALBANIA/Kanal-10.png" group-title="EU | ALB | GJENERAL",ALB - KANAL 10 FHD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/53975.ts
-#EXTINF:-1 tvg-id="Kanal 10.al" tvg-name="ALB - KANAL 10 SD ◉" tvg-logo="https://go4.pw/EUROPE/ALBANIA/Kanal-10.png" group-title="EU | ALB | GJENERAL",ALB - KANAL 10 SD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/762491.ts
-#EXTINF:-1 tvg-id="Club TV.al" tvg-name="ALB - CLUB TV HD" tvg-logo="https://go4.pw/ALBANIA/CLUBTV.png" group-title="EU | ALB | GJENERAL",ALB - CLUB TV HD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/988030.ts
-#EXTINF:-1 tvg-id="MCN TV.al" tvg-name="ALB - MCN TV SD" tvg-logo="https://go4.pw/ALBANIA/MCN.png" group-title="EU | ALB | GJENERAL",ALB - MCN TV SD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/427593.ts
-#EXTINF:-1 tvg-id="TV Tema.al" tvg-name="ALB - TEMA TV HD ◉" tvg-logo="https://go4.pw/ALBANIA/TEMA.png" group-title="EU | ALB | GJENERAL",ALB - TEMA TV HD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/53938.ts
-#EXTINF:-1 tvg-id="ATD TV.al" tvg-name="ALB - D TV HD ◉" tvg-logo="https://go4.pw/ALBANIA/D2TV.png" group-title="EU | ALB | GJENERAL",ALB - D TV HD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/492321.ts
-#EXTINF:-1 tvg-id="473312" tvg-name="ALB - DIELLI HD" tvg-logo="https://go4.pw/ALBANIA/DIELLI.png" group-title="EU | ALB | GJENERAL",ALB - DIELLI HD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/473312.ts
-#EXTINF:-1 tvg-id="Star Plus TV.al" tvg-name="ALB - STAR PLUS FHD ◉" tvg-logo="https://go4.pw/ALBANIA/STARPLUS.png" group-title="EU | ALB | GJENERAL",ALB - STAR PLUS FHD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/762496.ts
-#EXTINF:-1 tvg-id="Star Plus TV.al" tvg-name="ALB - STAR PLUS SHKODËR HD ◉" tvg-logo="https://go4.pw/ALBANIA/STARPLUS.png" group-title="EU | ALB | GJENERAL",ALB - STAR PLUS SHKODËR HD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/53957.ts
-#EXTINF:-1 tvg-id="TV Liria.al" tvg-name="ALB - TV LIRIA HD◉" tvg-logo="https://go4.pw/ALBANIA/LIRIA.png" group-title="EU | ALB | GJENERAL",ALB - TV LIRIA HD◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/473209.ts
-#EXTINF:-1 tvg-id="ALB UK TV.al" tvg-name="ALB - ALB UK FHD ◉" tvg-logo="https://go4.pw/ALBANIA/ALBUK.png" group-title="EU | ALB | GJENERAL",ALB - ALB UK FHD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/314515.ts
-#EXTINF:-1 tvg-id="Kopliku TV.al" tvg-name="ALB - TV KOPLIKU FHD ◉" tvg-logo="https://go4.pw/ALBANIA/KOPLIKU.png" group-title="EU | ALB | GJENERAL",ALB - TV KOPLIKU FHD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/491795.ts
-#EXTINF:-1 tvg-id="876072" tvg-name="ALB - TROPOJA TV HD" tvg-logo="https://go4.pw/ALBANIA/TROPOJA.png" group-title="EU | ALB | GJENERAL",ALB - TROPOJA TV HD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/876072.ts
-#EXTINF:-1 tvg-id="TV Mitrovica.al" tvg-name="ALB - TV MITROVICA HD ◉" tvg-logo="https://go4.pw//ALBANIA/TVMITRO.png" group-title="EU | ALB | GJENERAL",ALB - TV MITROVICA HD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/53980.ts
-#EXTINF:-1 tvg-id="TV Llapi.al" tvg-name="ALB - TV LLAPI FHD ◉" tvg-logo="https://go4.pw/ALBANIA/LLAPI.png" group-title="EU | ALB | GJENERAL",ALB - TV LLAPI FHD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/762501.ts
-#EXTINF:-1 tvg-id="346101" tvg-name="ALB - ISTOGU CHANNEL FHD ◉" tvg-logo="https://go4.pw/ALBANIA/istoguchannel.png" group-title="EU | ALB | GJENERAL",ALB - ISTOGU CHANNEL FHD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/346101.ts
-#EXTINF:-1 tvg-id="762475" tvg-name="ALB - RTV FONTANA HD ◉" tvg-logo="https://go4.pw/ALBANIA/FONTANARTV.png" group-title="EU | ALB | GJENERAL",ALB - RTV FONTANA HD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/762475.ts
-#EXTINF:-1 tvg-id="Peace TV.al" tvg-name="ALB - PEACE TV SD ◉" tvg-logo="https://go4.pw//ALBANIA/PEACE2TV.png" group-title="EU | ALB | GJENERAL",ALB - PEACE TV SD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/762526.ts
-#EXTINF:-1 tvg-id="1181025" tvg-name="ALB - GLOBE TV SD" tvg-logo="https://go4.pw/ALBANIA/GLOBE_TV.png" group-title="EU | ALB | GJENERAL",ALB - GLOBE TV SD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/1181025.ts
-#EXTINF:-1 tvg-id="1189460" tvg-name="ALB - TV PRIZRENI SD" tvg-logo="https://go4.pw/ALBANIA/PRIZRENI.png" group-title="EU | ALB | GJENERAL",ALB - TV PRIZRENI SD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/1189460.ts
-#EXTINF:-1 tvg-id="988043" tvg-name="ALB - 7 TV SD" tvg-logo="https://go4.pw/ALBANIA/tv7.png" group-title="EU | ALB | GJENERAL",ALB - 7 TV SD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/988043.ts
-#EXTINF:-1 tvg-id="First Channel.al" tvg-name="ALB - FIRST TV HD ◉" tvg-logo="https://go4.pw/ALBANIA/FIRST_TV.png" group-title="EU | ALB | GJENERAL",ALB - FIRST TV HD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/53981.ts
-#EXTINF:-1 tvg-id="ktv.al" tvg-name="ALB - KTV KOHAVISION FHD" tvg-logo="https://go4.pw/ALBANIA/KTVKOHAVISION.png" group-title="EU | ALB | GJENERAL",ALB - KTV KOHAVISION FHD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/988034.ts
-#EXTINF:-1 tvg-id="ktv.al" tvg-name="ALB - KTV KOHAVISION HD ◉" tvg-logo="https://go4.pw/ALBANIA/KTVKOHAVISION.png" group-title="EU | ALB | GJENERAL",ALB - KTV KOHAVISION HD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/54001.ts
-#EXTINF:-1 tvg-id="ATV.al" tvg-name="ALB - ATV SD ◉" tvg-logo="https://go4.pw/ALBANIA/ATV.png" group-title="EU | ALB | GJENERAL",ALB - ATV SD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/492171.ts
-#EXTINF:-1 tvg-id="ATV.al" tvg-name="ALB - ATV HD ◉" tvg-logo="https://go4.pw/ALBANIA/ATV.png" group-title="EU | ALB | GJENERAL",ALB - ATV HD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/199437.ts
-#EXTINF:-1 tvg-id="TeVe 1.al" tvg-name="ALB - TËVË 1 HD ◉" tvg-logo="https://go4.pw/ALBANIA/TEVE1.png" group-title="EU | ALB | GJENERAL",ALB - TËVË 1 HD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/288870.ts
-#EXTINF:-1 tvg-id="PRO1.al" tvg-name="ALB - PRO 1 FHD" tvg-logo="https://go4.pw/ALBANIA/p1.png" group-title="EU | ALB | GJENERAL",ALB - PRO 1 FHD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/562329.ts
-#EXTINF:-1 tvg-id="RTV 21 MK.al" tvg-name="ALB - RTV 21 MAQEDONIA SD ◉" tvg-logo="https://go4.pw/EUROPE/ALBANIA/RTV_21.png" group-title="EU | ALB | GJENERAL",ALB - RTV 21 MAQEDONIA SD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/492134.ts
-#EXTINF:-1 tvg-id="988032" tvg-name="ALB - RTV 21 PLUS FHD" tvg-logo="https://go4.pw/ALBANIA/21plusilma.png" group-title="EU | ALB | GJENERAL",ALB - RTV 21 PLUS FHD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/988032.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALB - RTV 21 PLUS SD ◉" tvg-logo="https://go4.pw/ALBANIA/21plusilma.png" group-title="EU | ALB | GJENERAL",ALB - RTV 21 PLUS SD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/53960.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALB - TV ERA HD ◉" tvg-logo="https://go4.pw/ALBANIA/eratv.png" group-title="EU | ALB | GJENERAL",ALB - TV ERA HD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/53973.ts
-#EXTINF:-1 tvg-id="RTV Besa.al" tvg-name="ALB - BESA TV HD ◉" tvg-logo="https://go4.pw/ALBANIA/BESA.png" group-title="EU | ALB | GJENERAL",ALB - BESA TV HD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/53977.ts
-#EXTINF:-1 tvg-id="Zjarr TV.al" tvg-name="ALB - ZJARR TV FHD ◉" tvg-logo="https://go4.pw/ALBANIA/zjar.png" group-title="EU | ALB | GJENERAL",ALB - ZJARR TV FHD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/491800.ts
-#EXTINF:-1 tvg-id="1358417" tvg-name="ALB - ZËRI I DRINIT TV FHD" tvg-logo="https://go4.pw/EUROPE/ZËRI.png" group-title="EU | ALB | GJENERAL",ALB - ZËRI I DRINIT TV FHD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/1358417.ts
-#EXTINF:-1 tvg-id="1407204" tvg-name="ALB - SHIJAK TV HD" tvg-logo="https://go4.pw/EUROPE/SHIJAK.png" group-title="EU | ALB | GJENERAL",ALB - SHIJAK TV HD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/1407204.ts
-#EXTINF:-1 tvg-id="1407205" tvg-name="ALB - ART GURMANIA HD" tvg-logo="https://go4.pw/EUROPE/20DIGITALB.pnghttps://go4.pw/EUROPE/ARTGURMANIA.png" group-title="EU | ALB | GJENERAL",ALB - ART GURMANIA HD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/1407205.ts
-#EXTINF:-1 tvg-id="1434908" tvg-name="##### ALB - KLAN SPORT #####" tvg-logo="https://go4.pw/MAGFLAGS/ALBANIA.png" group-title="EU | ALB | SPORT",##### ALB - KLAN SPORT #####
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/1434908.ts
-#EXTINF:-1 tvg-id="supersport2.al" tvg-name="ALB - KLAN SPORT 1 FHD" tvg-logo="https://go4.pw/ALBANIA/klansport01.png" group-title="EU | ALB | SPORT",ALB - KLAN SPORT 1 FHD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/44163.ts
-#EXTINF:-1 tvg-id="supersport3.al" tvg-name="ALB - KLAN SPORT 2 FHD" tvg-logo="https://go4.pw/ALBANIA/klansport02.png" group-title="EU | ALB | SPORT",ALB - KLAN SPORT 2 FHD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/44304.ts
 #EXTINF:-1 tvg-id="" tvg-name="##### ALB - SUPER SPORT #####" tvg-logo="https://go4.pw/MAGFLAGS/ALBANIA.png" group-title="EU | ALB | SPORT",##### ALB - SUPER SPORT #####
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/53771.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/53771.ts
 #EXTINF:-1 tvg-id="supersport1.al" tvg-name="ALB - SUPER SPORT 1 FHD" tvg-logo="https://go4.pw/ALBANIA/S1.png" group-title="EU | ALB | SPORT",ALB - SUPER SPORT 1 FHD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/491819.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/491819.ts
 #EXTINF:-1 tvg-id="supersport1.al" tvg-name="ALB - SUPER SPORT 1 HD" tvg-logo="https://go4.pw/ALBANIA/S1.png" group-title="EU | ALB | SPORT",ALB - SUPER SPORT 1 HD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/53770.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/53770.ts
 #EXTINF:-1 tvg-id="supersport2.al" tvg-name="ALB - SUPER SPORT 2 FHD" tvg-logo="https://go4.pw/ALBANIA/S2.png" group-title="EU | ALB | SPORT",ALB - SUPER SPORT 2 FHD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/762534.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/762534.ts
 #EXTINF:-1 tvg-id="supersport2.al" tvg-name="ALB - SUPER SPORT 2 HD" tvg-logo="https://go4.pw/ALBANIA/S2.png" group-title="EU | ALB | SPORT",ALB - SUPER SPORT 2 HD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/53769.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/53769.ts
 #EXTINF:-1 tvg-id="supersport3.al" tvg-name="ALB - SUPER SPORT 3 FHD" tvg-logo="https://go4.pw/ALBANIA/S3.png" group-title="EU | ALB | SPORT",ALB - SUPER SPORT 3 FHD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/1112121.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/1112121.ts
 #EXTINF:-1 tvg-id="supersport3.al" tvg-name="ALB - SUPER SPORT 3 HD" tvg-logo="https://go4.pw/ALBANIA/S3.png" group-title="EU | ALB | SPORT",ALB - SUPER SPORT 3 HD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/53767.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/53767.ts
 #EXTINF:-1 tvg-id="supersport4.al" tvg-name="ALB - SUPER SPORT 4 FHD" tvg-logo="https://go4.pw/ALBANIA/S4.png" group-title="EU | ALB | SPORT",ALB - SUPER SPORT 4 FHD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/491810.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/491810.ts
 #EXTINF:-1 tvg-id="supersport4.al" tvg-name="ALB - SUPER SPORT 4 HD" tvg-logo="https://go4.pw/ALBANIA/S4.png" group-title="EU | ALB | SPORT",ALB - SUPER SPORT 4 HD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/326620.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/326620.ts
 #EXTINF:-1 tvg-id="supersport5.al" tvg-name="ALB - SUPER SPORT 5 FHD" tvg-logo="https://go4.pw/ALBANIA/S5.png" group-title="EU | ALB | SPORT",ALB - SUPER SPORT 5 FHD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/1208006.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/1208006.ts
 #EXTINF:-1 tvg-id="supersport5.al" tvg-name="ALB - SUPER SPORT 5 HD" tvg-logo="https://go4.pw/ALBANIA/S5.png" group-title="EU | ALB | SPORT",ALB - SUPER SPORT 5 HD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/53763.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/53763.ts
 #EXTINF:-1 tvg-id="supersport6.al" tvg-name="ALB - SUPER SPORT 6 FHD" tvg-logo="https://go4.pw/ALBANIA/S6.png" group-title="EU | ALB | SPORT",ALB - SUPER SPORT 6 FHD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/491809.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/491809.ts
 #EXTINF:-1 tvg-id="supersport6.al" tvg-name="ALB - SUPER SPORT 6 HD" tvg-logo="https://go4.pw/ALBANIA/S6.png" group-title="EU | ALB | SPORT",ALB - SUPER SPORT 6 HD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/1026476.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/1026476.ts
 #EXTINF:-1 tvg-id="supersport7.al" tvg-name="ALB - SUPER SPORT 7 FHD" tvg-logo="https://go4.pw/ALBANIA/S7.png" group-title="EU | ALB | SPORT",ALB - SUPER SPORT 7 FHD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/1208003.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/1208003.ts
 #EXTINF:-1 tvg-id="supersport7.al" tvg-name="ALB - SUPER SPORT 7 HD" tvg-logo="https://go4.pw/ALBANIA/S7.png" group-title="EU | ALB | SPORT",ALB - SUPER SPORT 7 HD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/53761.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/53761.ts
 #EXTINF:-1 tvg-id="" tvg-name="##### ALB - TRING SPORT #####" tvg-logo="https://go4.pw/MAGFLAGS/ALBANIA.png" group-title="EU | ALB | SPORT",##### ALB - TRING SPORT #####
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/53760.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/53760.ts
 #EXTINF:-1 tvg-id="Tring Sport News.al" tvg-name="ALB - TRING SPORT NEWS FHD" tvg-logo="https://go4.pw/ALBANIA/TRINGSPORTNEWS.png" group-title="EU | ALB | SPORT",ALB - TRING SPORT NEWS FHD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/53759.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/53759.ts
 #EXTINF:-1 tvg-id="1165923" tvg-name="ALB - TRING SPORT 1 FHD" tvg-logo="https://go4.pw/ALBANIA/TRINGSPORT1.png" group-title="EU | ALB | SPORT",ALB - TRING SPORT 1 FHD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/1165923.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/1165923.ts
 #EXTINF:-1 tvg-id="" tvg-name="ALB - TRING SPORT 1 HD" tvg-logo="https://go4.pw/ALBANIA/TRINGSPORT1.png" group-title="EU | ALB | SPORT",ALB - TRING SPORT 1 HD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/53757.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/53757.ts
 #EXTINF:-1 tvg-id="1165919" tvg-name="ALB - TRING SPORT 1 HD²" tvg-logo="https://go4.pw/ALBANIA/TRINGSPORT1.png" group-title="EU | ALB | SPORT",ALB - TRING SPORT 1 HD²
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/1165919.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/1165919.ts
 #EXTINF:-1 tvg-id="1165922" tvg-name="ALB - TRING SPORT 2 FHD" tvg-logo="https://go4.pw/ALBANIA/TRINGSPORT2.png" group-title="EU | ALB | SPORT",ALB - TRING SPORT 2 FHD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/1165922.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/1165922.ts
 #EXTINF:-1 tvg-id="" tvg-name="ALB - TRING SPORT 2 HD" tvg-logo="https://go4.pw/ALBANIA/TRINGSPORT2.png" group-title="EU | ALB | SPORT",ALB - TRING SPORT 2 HD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/53756.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/53756.ts
 #EXTINF:-1 tvg-id="1165918" tvg-name="ALB - TRING SPORT 2 HD²" tvg-logo="https://go4.pw/ALBANIA/TRINGSPORT2.png" group-title="EU | ALB | SPORT",ALB - TRING SPORT 2 HD²
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/1165918.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/1165918.ts
 #EXTINF:-1 tvg-id="1165921" tvg-name="ALB - TRING SPORT 3 FHD" tvg-logo="https://go4.pw/ALBANIA/TRINGSPORT3.png" group-title="EU | ALB | SPORT",ALB - TRING SPORT 3 FHD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/1165921.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/1165921.ts
 #EXTINF:-1 tvg-id="" tvg-name="ALB - TRING SPORT 3 HD" tvg-logo="https://go4.pw/ALBANIA/TRINGSPORT3.png" group-title="EU | ALB | SPORT",ALB - TRING SPORT 3 HD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/150350.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/150350.ts
 #EXTINF:-1 tvg-id="1165917" tvg-name="ALB - TRING SPORT 3 HD²" tvg-logo="https://go4.pw/ALBANIA/TRINGSPORT3.png" group-title="EU | ALB | SPORT",ALB - TRING SPORT 3 HD²
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/1165917.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/1165917.ts
 #EXTINF:-1 tvg-id="1165920" tvg-name="ALB - TRING SPORT 4 FHD" tvg-logo="https://go4.pw/ALBANIA/TRING4.png" group-title="EU | ALB | SPORT",ALB - TRING SPORT 4 FHD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/1165920.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/1165920.ts
 #EXTINF:-1 tvg-id="" tvg-name="ALB - TRING SPORT 4 HD" tvg-logo="https://go4.pw/ALBANIA/TRING4.png" group-title="EU | ALB | SPORT",ALB - TRING SPORT 4 HD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/150351.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/150351.ts
 #EXTINF:-1 tvg-id="1165916" tvg-name="ALB - TRING SPORT 4 HD²" tvg-logo="https://go4.pw/ALBANIA/TRING4.png" group-title="EU | ALB | SPORT",ALB - TRING SPORT 4 HD²
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/1165916.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/1165916.ts
 #EXTINF:-1 tvg-id="1356827" tvg-name="ALB - TRING SPORT 5 FHD" tvg-logo="https://go4.pw/EUROPE/tring5.png" group-title="EU | ALB | SPORT",ALB - TRING SPORT 5 FHD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/1356827.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/1356827.ts
 #EXTINF:-1 tvg-id="1356828" tvg-name="ALB - TRING SPORT 6 FHD" tvg-logo="https://go4.pw/EUROPE/tring6.png" group-title="EU | ALB | SPORT",ALB - TRING SPORT 6 FHD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/1356828.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/1356828.ts
 #EXTINF:-1 tvg-id="1356829" tvg-name="ALB - TRING SPORT 7 FHD" tvg-logo="https://go4.pw/EUROPE/tring7.png" group-title="EU | ALB | SPORT",ALB - TRING SPORT 7 FHD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/1356829.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/1356829.ts
 #EXTINF:-1 tvg-id="" tvg-name="##### ALB - KUJTESA SPORT #####" tvg-logo="https://go4.pw/MAGFLAGS/ALBANIA.png" group-title="EU | ALB | SPORT",##### ALB - KUJTESA SPORT #####
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/53753.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/53753.ts
 #EXTINF:-1 tvg-id="k-sport1.al" tvg-name="ALB - K SPORT 1 UHD" tvg-logo="https://go4.pw/ALBANIA/K1.png" group-title="EU | ALB | SPORT",ALB - K SPORT 1 UHD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/1026353.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/1026353.ts
 #EXTINF:-1 tvg-id="k-sport1.al" tvg-name="ALB - K SPORT 1 HD" tvg-logo="https://go4.pw/ALBANIA/K1.png" group-title="EU | ALB | SPORT",ALB - K SPORT 1 HD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/53752.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/53752.ts
 #EXTINF:-1 tvg-id="k-sport2.al" tvg-name="ALB - K SPORT 2 HD" tvg-logo="https://go4.pw/ALBANIA/K2.png" group-title="EU | ALB | SPORT",ALB - K SPORT 2 HD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/53751.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/53751.ts
 #EXTINF:-1 tvg-id="k-sport3.al" tvg-name="ALB - K SPORT 3 HD" tvg-logo="https://go4.pw/ALBANIA/K3.png" group-title="EU | ALB | SPORT",ALB - K SPORT 3 HD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/53750.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/53750.ts
 #EXTINF:-1 tvg-id="k-sport4.al" tvg-name="ALB - K SPORT 4 HD" tvg-logo="https://go4.pw/ALBANIA/K4.png" group-title="EU | ALB | SPORT",ALB - K SPORT 4 HD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/53749.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/53749.ts
 #EXTINF:-1 tvg-id="" tvg-name="##### ALB - ART MOTION SPORT #####" tvg-logo="https://go4.pw/MAGFLAGS/ALBANIA.png" group-title="EU | ALB | SPORT",##### ALB - ART MOTION SPORT #####
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/53747.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/53747.ts
 #EXTINF:-1 tvg-id="ART Sport 1.al" tvg-name="ALB - ART SPORT 1 FHD ◉" tvg-logo="https://go4.pw/ALBANIA/ARTSPORT1.png" group-title="EU | ALB | SPORT",ALB - ART SPORT 1 FHD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/473300.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/473300.ts
 #EXTINF:-1 tvg-id="ART Sport 2.al" tvg-name="ALB - ART SPORT 2 FHD ◉" tvg-logo="https://go4.pw/ALBANIA/ARTSPORT2.png" group-title="EU | ALB | SPORT",ALB - ART SPORT 2 FHD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/1026466.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/1026466.ts
 #EXTINF:-1 tvg-id="ART Sport 3.al" tvg-name="ALB - ART SPORT 3 FHD ◉" tvg-logo="https://go4.pw/ALBANIA/ARTSPORT3.png" group-title="EU | ALB | SPORT",ALB - ART SPORT 3 FHD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/1026467.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/1026467.ts
 #EXTINF:-1 tvg-id="ART Sport 4.al" tvg-name="ALB - ART SPORT 4 FHD ◉" tvg-logo="https://go4.pw/ALBANIA/ARTSPORT4.png" group-title="EU | ALB | SPORT",ALB - ART SPORT 4 FHD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/1016184.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/1016184.ts
 #EXTINF:-1 tvg-id="ART Sport 5.al" tvg-name="ALB - ART SPORT 5 FHD ◉" tvg-logo="https://go4.pw/ALBANIA/ARTSPORT5.png" group-title="EU | ALB | SPORT",ALB - ART SPORT 5 FHD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/326621.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/326621.ts
 #EXTINF:-1 tvg-id="ART Sport 6.al" tvg-name="ALB - ART SPORT 6 FHD ◉" tvg-logo="https://go4.pw/ALBANIA/ARTSPORT6.png" group-title="EU | ALB | SPORT",ALB - ART SPORT 6 FHD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/762488.ts
-#EXTINF:-1 tvg-id="503762" tvg-name="##### ALB - EURO SPORT #####" tvg-logo="https://go4.pw/MAGFLAGS/ALBANIA.png" group-title="EU | ALB | SPORT",##### ALB - EURO SPORT #####
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/503762.ts
-#EXTINF:-1 tvg-id="Eurosport.al" tvg-name="ALB - EURO SPORT 1 FHD" tvg-logo="https://go4.pw/ALBANIA/eurosport1.png" group-title="EU | ALB | SPORT",ALB - EURO SPORT 1 FHD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/1026475.ts
-#EXTINF:-1 tvg-id="Eurosport.al" tvg-name="ALB - EURO SPORT 1 FHD²" tvg-logo="https://go4.pw/ALBANIA/eurosport1.png" group-title="EU | ALB | SPORT",ALB - EURO SPORT 1 FHD²
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/491827.ts
-#EXTINF:-1 tvg-id="Eurosport.al" tvg-name="ALB - EURO SPORT 2 FHD" tvg-logo="https://go4.pw/ALBANIA/eurosport2.png" group-title="EU | ALB | SPORT",ALB - EURO SPORT 2 FHD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/491826.ts
-#EXTINF:-1 tvg-id="Eurosport.al" tvg-name="ALB - EURO SPORT 2 FHD²" tvg-logo="https://go4.pw/ALBANIA/eurosport2.png" group-title="EU | ALB | SPORT",ALB - EURO SPORT 2 FHD²
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/1026474.ts
-#EXTINF:-1 tvg-id="503728" tvg-name="##### ALB - RTSH SPORT & OTHER #####" tvg-logo="https://go4.pw/MAGFLAGS/ALBANIA.png" group-title="EU | ALB | SPORT",##### ALB - RTSH SPORT & OTHER #####
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/503728.ts
-#EXTINF:-1 tvg-id="rtshsport.al" tvg-name="ALB - RTSH SPORT FHD" tvg-logo="https://go4.pw/ALBANIA/rtshsp.png" group-title="EU | ALB | SPORT",ALB - RTSH SPORT FHD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/988053.ts
-#EXTINF:-1 tvg-id="rtshsport.al" tvg-name="ALB - RTSH SPORT HEVC" tvg-logo="https://go4.pw/ALBANIA/rtshsp.png" group-title="EU | ALB | SPORT",ALB - RTSH SPORT HEVC
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/891019.ts
-#EXTINF:-1 tvg-id="rtshsport.al" tvg-name="ALB - RTSH SPORT HD ◉" tvg-logo="https://go4.pw/ALBANIA/rtshsp.png" group-title="EU | ALB | SPORT",ALB - RTSH SPORT HD ◉
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/53742.ts
-#EXTINF:-1 tvg-id="FightBox HD.al" tvg-name="ALB - FIGHT BOX HD" tvg-logo="https://go4.pw/ALBANIA/fightbox.png" group-title="EU | ALB | SPORT",ALB - FIGHT BOX HD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/491920.ts
-#EXTINF:-1 tvg-id="1416588" tvg-name="ALB - FSHF TV FHD" tvg-logo="https://go4.pw/EUROPE/FSHF.png" group-title="EU | ALB | SPORT",ALB - FSHF TV FHD
-http://rjasy.mor-esp.cc/live/NGXURXX/JDQ572X/1416588.ts
+http://rjasy.eagles01.cc/live/NGXURXX/JDQ572X/762488.ts
